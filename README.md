@@ -81,7 +81,7 @@ input[type=password] {
 	</pre>
 </header>
 <form method="post">
-<input type="password" name="pass">
+<input type="password" name="denzuz">
 </form>
 <?php
 exit;
